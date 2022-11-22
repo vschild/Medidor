@@ -1,0 +1,1404 @@
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.817627
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.818115
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.818604
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.819092
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.819580
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.820068
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.820557
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.821045
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.821533
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.822021
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.822510
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.822998
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.823486
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.823975
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.824463
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.824951
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.825439
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.825928
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.826416
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.826904
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.827393
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.827881
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.828369
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.828857
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.829346
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.829834
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.830322
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.830811
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.831299
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.831787
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.832275
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.832764
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.833252
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.833740
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.834229
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.834717
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.835205
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) 1st synch received (1)  rssi=167 lqi=128 F_est=254 
+GDO0! (1, 25) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.835693
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.836182
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.836670
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.837158
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.837646
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.838135
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.838623
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.839111
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.839600
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.840088
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.840576
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.841064
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.841553
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.842041
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.842529
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.843018
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.843506
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.843994
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.844482
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.844971
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.845459
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.845947
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.846436
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.846924
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.847412
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.847900
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.848389
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.848877
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.849365
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.849854
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.850342
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.850830
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.851318
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.851807
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.852295
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.852783
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.853271
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.853760
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.854248
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.854736
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.855225
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.855713
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.856201
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.856689
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.857178
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.857666
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.858154
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.858643
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.859131
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.859619
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.860107
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.860596
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.861084
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.861572
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.862061
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.862549
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.863037
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.863525
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.864014
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.864502
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.864990
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.865479
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.865967
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.866455
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.866943
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.867432
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.867920
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.868408
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.868896
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.869385
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.869873
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.870361
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.870850
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.871338
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.871826
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.872314
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.872803
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.873291
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.873779
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.874268
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.874756
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.875244
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.875732
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.876221
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.876709
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.877197
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.877686
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.878174
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.878662
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.879150
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.879639
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.880127
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.880615
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.881104
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.881592
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.882080
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.882568
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.883057
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.883545
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.884033
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.884521
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.885010
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.885498
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.885986
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.886475
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.886963
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.887451
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.887939
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.888428
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.888916
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Test frequency : 433.889404
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) 1st synch received (1)  rssi=164 lqi=128 F_est=1 
+GDO0! (1, 635) TMO on REC
+Test frequency : 433.889893
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0E sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Connected to MQTT Broker :)
+> Configure time from NTP server.
+> Configure Arduino OTA flash.
+> Send MQTT config for HA.
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+202 free_byte:0x0F sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Current date (UTC) : 2022/11/22 13:34:06 - 1669124046
+Unable to retrieve data from meter. Retry later...
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+201 free_byte:0x0C sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Current date (UTC) : 2022/11/22 13:34:19 - 1669124059
+Unable to retrieve data from meter. Retry later...
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+201 free_byte:0x0B sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Current date (UTC) : 2022/11/22 13:34:32 - 1669124072
+Unable to retrieve data from meter. Retry later...
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+201 free_byte:0x0B sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Current date (UTC) : 2022/11/22 13:34:45 - 1669124085
+Unable to retrieve data from meter. Retry later...
+MARCSTATE : raw:0x13  0x13 free_byte:0x0F sts:0x02 sending 2s WUP...
+201 free_byte:0x0B sts:0x07
+
+size_byte=18  l_radian_frame_size_byte=25
+GDO0! (0, 0) TMO on REC
+
+size_byte=124  l_radian_frame_size_byte=171
+GDO0! (0, 0) TMO on REC
+Current date (UTC) : 2022/11/22 13:34:59 - 1669124099
+Unable to retrieve data from meter. Retry later...
